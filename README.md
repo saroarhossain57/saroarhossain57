@@ -2,6 +2,7 @@
 
 I am a Senior Full Stack Software Developer with over 7 years of professional experience. I have great technical knowledge and expertise in application development, application design, software engineering, and managing projects from conception to delivery. My key weapon is my expertise in programming languages and frameworks, breaking and solving problems quickly, agile methodologies, engineering best practices, testing, and most importantly dedication and focus.
 
+### 🚀 MY CORE SKILLS 
 <div align="left">
 	<table>
 		<tr>
