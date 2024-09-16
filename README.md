@@ -2,8 +2,8 @@
 
 I am a Senior Full Stack Software Developer with over 7 years of professional experience. I have great technical knowledge and expertise in application development, application design, software engineering, and managing projects from conception to delivery. My key weapon is my expertise in programming languages and frameworks, breaking and solving problems quickly, agile methodologies, engineering best practices, testing, and most importantly dedication and focus.
 
-### 🚀 MY CORE SKILLS 
-<div align="center">
+### 🚀 TECH I USE:
+<div align="left">
 	<table>
 		<tr>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" alt="websocket" title="websocket"/></code></td>
@@ -65,7 +65,7 @@ I am a Senior Full Stack Software Developer with over 7 years of professional ex
 
 ### 🚀 SOME ADDITIONAL SKILLS I HAVE 
 
-👉️ MVC Architecture - 👉️ Firestore - Redux - Next - Nuxt - Strapi - Gatsby - Rest API - API Integration - Payment Gateways - Competetive Programming - Open Source Contribution - PHPCS - Solid Principles - Unit Testing - WebSocket - WebRTC - Webpack - Grunt - Vite - Composer - Gulp
+👉️ Software Architecture - 👉️ API Integration - 👉️ Payment Gateways - 👉️ Competetive Programming & Problem Solving - 👉️ Open Source Contribution - 👉️ Solid Principles - 👉️ Software Testing - 👉️ Socket Programming
 
 
 🚀 Here are a few core skills I have 
