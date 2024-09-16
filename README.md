@@ -65,17 +65,17 @@ I am a Senior Full Stack Software Developer with over 7 years of professional ex
 
 ### 🚀 SOME ADDITIONAL SKILLS I HAVE 
 
-👉️ Software Architecture & Design Patterns.
-👉️ API & Payment Gateways Integration.
-👉️ Competetive Programming & Problem Solving.
-👉️ Open Source Contribution.
-👉️ Solid Principles.
-👉️ Software Testing.
+👉️ Software Architecture & Design Patterns.<br />
+👉️ API & Payment Gateways Integration.<br />
+👉️ Competetive Programming & Problem Solving.<br />
+👉️ Open Source Contribution.<br />
+👉️ Solid Principles.<br />
+👉️ Software Testing.<br />
 👉️ Socket Programming.
 
 #### 🏆 I am passionate about Programming and coding and would love to do that in my full career. Contact me if you want to collaborate with any projects!
 
-### 🗒 Contact Information
-Email: limonhossain57@gmail.com
+### 🗒 Contact Information<br />
+Email: limonhossain57@gmail.com<br />
 Mobile: +8801742560972
 
