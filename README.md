@@ -86,8 +86,6 @@ Mobile: +8801742560972
 ### 🙅 Profiles<br />
 <a href="https://www.linkedin.com/in/saroarhossain57/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://profiles.wordpress.org/shossain571/" target="_blank"><img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress Profile"></a>
-<a href="https://x.com/SaroarHossain57" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
+<a href="https://x.com/shossaindev" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
 <a href="https://www.facebook.com/saroar.hossain57/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://join.skype.com/invite/npiuPIhBygXn/" target="_blank"><img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" alt="Skype"></a>
-
-
